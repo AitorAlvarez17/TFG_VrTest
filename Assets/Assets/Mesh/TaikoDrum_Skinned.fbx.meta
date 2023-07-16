@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: e74a74105253d76458c85ed45cf92294
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BACHI
+    100002: Drum
+    100004: Front
+    100006: Front_joint
+    100008: Hit_joint
+    100010: Madero1
+    100012: Madero2
+    100014: Madero3
+    100016: Madero4
+    100018: Madero5
+    100020: Madero6
+    100022: Madero7
+    100024: Madero8
+    100026: TaikoBase
+    100028: TaikoDrum
+    100030: //RootNode
+    400000: BACHI
+    400002: Drum
+    400004: Front
+    400006: Front_joint
+    400008: Hit_joint
+    400010: Madero1
+    400012: Madero2
+    400014: Madero3
+    400016: Madero4
+    400018: Madero5
+    400020: Madero6
+    400022: Madero7
+    400024: Madero8
+    400026: TaikoBase
+    400028: TaikoDrum
+    400030: //RootNode
+    2100000: m_taikoDrums
+    2100002: m_bachi
+    2300000: BACHI
+    2300002: Drum
+    2300004: Madero1
+    2300006: Madero2
+    2300008: Madero3
+    2300010: Madero4
+    2300012: Madero5
+    2300014: Madero6
+    2300016: Madero7
+    2300018: Madero8
+    3300000: BACHI
+    3300002: Drum
+    3300004: Madero1
+    3300006: Madero2
+    3300008: Madero3
+    3300010: Madero4
+    3300012: Madero5
+    3300014: Madero6
+    3300016: Madero7
+    3300018: Madero8
+    4300000: Madero8
+    4300002: Madero7
+    4300004: Madero6
+    4300006: Madero5
+    4300008: Madero4
+    4300010: Madero3
+    4300012: Madero2
+    4300014: Madero1
+    4300016: Front
+    4300018: Drum
+    4300020: BACHI
+    9500000: //RootNode
+    13700000: Front
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
